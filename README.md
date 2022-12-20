@@ -1,4 +1,4 @@
-<h1 align="center"> Móveis para Você </h1>
+<h1 align="center"> Flutuar </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
